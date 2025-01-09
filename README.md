@@ -1,3 +1,17 @@
-# Basic Node and Express
+# Basic Node and Express By Waleed Bukhari
 
-This is the boilerplate code for the Basic Node and Express Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/
+## In this basic node and express introductory projects. Quick rewise some important concepts like
+
+### Console in node.js
+
+### Configuring express server
+
+### Serving static files using express.static
+
+### Serving json in response
+
+### Securing secret information using .env
+
+### Understand and implement different middlewares like universal, request specific, path specific
+
+### Understand and implement how to manage data using request params, query string, body
