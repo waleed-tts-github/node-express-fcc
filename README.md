@@ -1,6 +1,6 @@
 # Basic Node and Express By Waleed Bukhari
 
-## In this basic node and express introductory projects. Quick rewise some important concepts like
+## In this basic node and express introductory project. Quick rewise some important concepts like
 
 ### Console in node.js
 
